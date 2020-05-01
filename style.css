@@ -1,0 +1,45 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/*----------Navigation----------*/
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+/*-----Slider-----*/
+{
+	width: 100%;
+}
+/*-----About-----*/
+#About
+{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #555;
+}
+#About btn
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+.about-content
+{
+	padding-top: 20px;
+}
+/*-------Footer-------*/
+#footer
+{
+ background: #333;
+ color: #fff;
+ padding: 12px;
+}
+.fa-copyright
+{
+	margin: 3px;
+	color: red;
+}
